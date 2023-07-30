@@ -1,4 +1,4 @@
-# DiscordBot
+# DiscordBot [Probably broken due to discord api changes use at own risk]
 A simple way to start your new discord bot
 
 This is basically just a template for a discord bot. With working user-permission  
